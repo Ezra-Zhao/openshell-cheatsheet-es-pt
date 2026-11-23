@@ -1,5 +1,7 @@
 # 🛡️ OpenShell Cheatsheet · Guía rápida / Guia rápido
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 One page to run AI agents inside [NVIDIA OpenShell](https://github.com/NVIDIA/OpenShell) (15.9k+ ⭐): the policy-driven sandbox runtime that lets agents read files, install packages and call APIs without unrestricted access to your data, secrets or network. Install, core commands, policy file, architecture and the credential model. Commands verified 2026-10-12 against the official docs (v0.1.3) and the upstream README.
 
 **Full cheatsheets, one per language (written natively, not translated):**
